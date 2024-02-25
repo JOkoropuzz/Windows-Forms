@@ -1,0 +1,16 @@
+D:\Csharp\WinForms\Lab07\AsyncWF\bin\Debug\net8.0-windows\AsyncWF.exe
+D:\Csharp\WinForms\Lab07\AsyncWF\bin\Debug\net8.0-windows\AsyncWF.deps.json
+D:\Csharp\WinForms\Lab07\AsyncWF\bin\Debug\net8.0-windows\AsyncWF.runtimeconfig.json
+D:\Csharp\WinForms\Lab07\AsyncWF\bin\Debug\net8.0-windows\AsyncWF.dll
+D:\Csharp\WinForms\Lab07\AsyncWF\bin\Debug\net8.0-windows\AsyncWF.pdb
+D:\Csharp\WinForms\Lab07\AsyncWF\obj\Debug\net8.0-windows\AsyncWF.Form1.resources
+D:\Csharp\WinForms\Lab07\AsyncWF\obj\Debug\net8.0-windows\AsyncWF.csproj.GenerateResource.cache
+D:\Csharp\WinForms\Lab07\AsyncWF\obj\Debug\net8.0-windows\AsyncWF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\WinForms\Lab07\AsyncWF\obj\Debug\net8.0-windows\AsyncWF.AssemblyInfoInputs.cache
+D:\Csharp\WinForms\Lab07\AsyncWF\obj\Debug\net8.0-windows\AsyncWF.AssemblyInfo.cs
+D:\Csharp\WinForms\Lab07\AsyncWF\obj\Debug\net8.0-windows\AsyncWF.csproj.CoreCompileInputs.cache
+D:\Csharp\WinForms\Lab07\AsyncWF\obj\Debug\net8.0-windows\AsyncWF.dll
+D:\Csharp\WinForms\Lab07\AsyncWF\obj\Debug\net8.0-windows\refint\AsyncWF.dll
+D:\Csharp\WinForms\Lab07\AsyncWF\obj\Debug\net8.0-windows\AsyncWF.pdb
+D:\Csharp\WinForms\Lab07\AsyncWF\obj\Debug\net8.0-windows\AsyncWF.genruntimeconfig.cache
+D:\Csharp\WinForms\Lab07\AsyncWF\obj\Debug\net8.0-windows\ref\AsyncWF.dll

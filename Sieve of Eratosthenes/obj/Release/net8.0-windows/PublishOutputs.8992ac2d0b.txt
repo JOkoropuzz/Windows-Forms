@@ -1,0 +1,5 @@
+D:\Csharp\на гит\AsyncWF\bin\Release\net8.0-windows\app.publish\AsyncWF.exe
+D:\Csharp\на гит\AsyncWF\bin\Release\net8.0-windows\app.publish\AsyncWF.dll
+D:\Csharp\на гит\AsyncWF\bin\Release\net8.0-windows\app.publish\AsyncWF.deps.json
+D:\Csharp\на гит\AsyncWF\bin\Release\net8.0-windows\app.publish\AsyncWF.runtimeconfig.json
+D:\Csharp\на гит\AsyncWF\bin\Release\net8.0-windows\app.publish\AsyncWF.pdb
