@@ -1,0 +1,32 @@
+D:\Csharp\WinForms\ToolBox\bin\Debug\net8.0-windows\WinQuestion.exe
+D:\Csharp\WinForms\ToolBox\bin\Debug\net8.0-windows\WinQuestion.deps.json
+D:\Csharp\WinForms\ToolBox\bin\Debug\net8.0-windows\WinQuestion.runtimeconfig.json
+D:\Csharp\WinForms\ToolBox\bin\Debug\net8.0-windows\WinQuestion.dll
+D:\Csharp\WinForms\ToolBox\bin\Debug\net8.0-windows\WinQuestion.pdb
+D:\Csharp\WinForms\ToolBox\obj\Debug\net8.0-windows\ToolBox.Form1.resources
+D:\Csharp\WinForms\ToolBox\obj\Debug\net8.0-windows\WinQuestion.csproj.GenerateResource.cache
+D:\Csharp\WinForms\ToolBox\obj\Debug\net8.0-windows\WinQuestion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\WinForms\ToolBox\obj\Debug\net8.0-windows\WinQuestion.AssemblyInfoInputs.cache
+D:\Csharp\WinForms\ToolBox\obj\Debug\net8.0-windows\WinQuestion.AssemblyInfo.cs
+D:\Csharp\WinForms\ToolBox\obj\Debug\net8.0-windows\WinQuestion.csproj.CoreCompileInputs.cache
+D:\Csharp\WinForms\ToolBox\obj\Debug\net8.0-windows\WinQuestion.dll
+D:\Csharp\WinForms\ToolBox\obj\Debug\net8.0-windows\refint\WinQuestion.dll
+D:\Csharp\WinForms\ToolBox\obj\Debug\net8.0-windows\WinQuestion.pdb
+D:\Csharp\WinForms\ToolBox\obj\Debug\net8.0-windows\WinQuestion.genruntimeconfig.cache
+D:\Csharp\WinForms\ToolBox\obj\Debug\net8.0-windows\ref\WinQuestion.dll
+D:\Csharp\на гит\ToolBox\bin\Debug\net8.0-windows\WinQuestion.exe
+D:\Csharp\на гит\ToolBox\bin\Debug\net8.0-windows\WinQuestion.deps.json
+D:\Csharp\на гит\ToolBox\bin\Debug\net8.0-windows\WinQuestion.runtimeconfig.json
+D:\Csharp\на гит\ToolBox\bin\Debug\net8.0-windows\WinQuestion.dll
+D:\Csharp\на гит\ToolBox\bin\Debug\net8.0-windows\WinQuestion.pdb
+D:\Csharp\на гит\ToolBox\obj\Debug\net8.0-windows\ToolBox.Form1.resources
+D:\Csharp\на гит\ToolBox\obj\Debug\net8.0-windows\WinQuestion.csproj.GenerateResource.cache
+D:\Csharp\на гит\ToolBox\obj\Debug\net8.0-windows\WinQuestion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\на гит\ToolBox\obj\Debug\net8.0-windows\WinQuestion.AssemblyInfoInputs.cache
+D:\Csharp\на гит\ToolBox\obj\Debug\net8.0-windows\WinQuestion.AssemblyInfo.cs
+D:\Csharp\на гит\ToolBox\obj\Debug\net8.0-windows\WinQuestion.csproj.CoreCompileInputs.cache
+D:\Csharp\на гит\ToolBox\obj\Debug\net8.0-windows\WinQuestion.dll
+D:\Csharp\на гит\ToolBox\obj\Debug\net8.0-windows\refint\WinQuestion.dll
+D:\Csharp\на гит\ToolBox\obj\Debug\net8.0-windows\WinQuestion.pdb
+D:\Csharp\на гит\ToolBox\obj\Debug\net8.0-windows\WinQuestion.genruntimeconfig.cache
+D:\Csharp\на гит\ToolBox\obj\Debug\net8.0-windows\ref\WinQuestion.dll
